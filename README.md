@@ -1,1 +1,17 @@
-![Plink](https://cdn.7tv.app/emote/636ff14356c8c85a263c0037/4x.webp)
+<table>
+  <tr>
+    <td><img src="/plinkplink.gif" /></td>
+    <td><img src="/plinkplink.gif" /></td>
+    <td><img src="/plinkplink.gif" /></td>
+  </tr>
+  <tr>
+    <td><img src="/plinkplink.gif" /></td>
+    <td><img src="/lick.gif" /></td>
+    <td><img src="/plinkplink.gif" /></td>
+  </tr>
+  <tr>
+    <td><img src="/plinkplink.gif" /></td>
+    <td><img src="/plinkplink.gif" /></td>
+    <td><img src="/plinkplink.gif" /></td>
+  </tr>
+</table>
